@@ -1,0 +1,2 @@
+# mkethidirepo
+myrepo
